@@ -1,0 +1,21 @@
+body {
+    background-color:#a97a5b;
+    font-family:helvetica;
+}
+
+h2  {
+    text-transform:capitalize;
+}
+
+h1 {
+    text-decoration:underline;
+    text-align:center;
+}
+
+li{
+    margin:1.5em;
+}
+
+p   { background-color:#90664b;
+    
+}
