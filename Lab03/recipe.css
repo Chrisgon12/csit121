@@ -1,0 +1,30 @@
+body {
+    background-image: url(../Lab03/images/mexicoflag.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-color:#a97a5b;
+    font-family:helvetica;
+    align-content: center;
+}
+.yum {
+     display:block;
+    margin-left: auto;
+    Margin-right: auto;
+}
+
+h2  {
+    text-transform:capitalize;
+}
+
+h1 {
+    text-decoration:underline;
+    text-align:center;
+}
+
+li{
+    margin:1.5em;
+}
+
+p   { background-color:#90664b;
+    
+}
